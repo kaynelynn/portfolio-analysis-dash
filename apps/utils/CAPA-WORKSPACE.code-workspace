@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../CAPA-WORKBOOKS"
+		},
+		{
+			"path": "../../../../../../Volumes/CAPA/.storage"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/opt/homebrew/anaconda3/bin/python"
+	}
+}
